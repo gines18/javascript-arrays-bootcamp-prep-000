@@ -7,5 +7,5 @@ var chocolateBars
   ]
   
   var addElementToBeginningOfArray
-  = ["maslo","pomidor"];
-  addElementToBeginningOfArray.push("cebula");
+  = ["maslo","pomidor"]
+  ["cebula", ]
