@@ -8,4 +8,4 @@ var chocolateBars
   
   var addElementToBeginningOfArray
   = ["maslo","pomidor"]
-  ["cebula", ]
+  ["cebula", ...addElementToBeginningOfArray]
